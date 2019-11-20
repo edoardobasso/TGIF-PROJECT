@@ -1,0 +1,32 @@
+html{
+    width:1300px;
+}
+body{
+    margin:10px;
+}
+#more{
+    display:none;
+}
+#navbar{
+    border-style:solid;
+    border-color:#A9A9A9;
+    margin:5px;
+    width:100%;
+
+    
+}
+#mail{
+    position: absolute;
+    right: 100px;
+    bottom: 460px
+}
+
+#footer{
+    display: flex;
+    border-style:solid;
+    border-color:darkgrey;
+    justify-content: center;
+    padding: 2px;
+    height: 20%;
+    width: 100%;
+}

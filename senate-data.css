@@ -1,0 +1,19 @@
+#navbar{
+    border-style:solid;
+    border-color:#A9A9A9;
+    margin:5px;
+}
+#mail{
+    position: absolute;
+    right: 100px;
+    bottom: 468px;
+}
+#footer{
+    display: flex;
+    border-style:solid;
+    border-color:darkgrey;
+    justify-content: center;
+    padding: 2px;
+    height: 20%;
+    width: 100%;
+}

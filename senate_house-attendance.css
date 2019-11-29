@@ -1,0 +1,16 @@
+#attendance{
+    width:50%;
+
+}
+#glance{
+    width: 50%;
+    position: relative;
+    left: 808px;
+    bottom: 272px;
+}
+
+.table{
+    border-style:solid;
+    border-color: black;
+    width:70%;
+}

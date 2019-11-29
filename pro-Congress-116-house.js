@@ -21324,7 +21324,7 @@ var data=
        }
     ]
  }
- var dataArray2 = data.results[0].members;
+ /* //var dataArray2 = data.results[0].members;
  var getinfos= function(array){
  var  table2= document.getElementById("house-data");
  var  body2= document.getElementById("tbody2");
@@ -21353,7 +21353,7 @@ table2.appendChild(body2);
 
 
 getinfos(dataArray2);
-
+ */
 
 
 

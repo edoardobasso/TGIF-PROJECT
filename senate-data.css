@@ -17,3 +17,7 @@
     height: 20%;
     width: 100%;
 }
+#states{
+    position: relative;
+    left:850px;
+}

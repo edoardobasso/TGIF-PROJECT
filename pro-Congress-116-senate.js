@@ -1,4 +1,3 @@
-
 var data = 
 {
    "status":"OK",
@@ -4816,7 +4815,7 @@ var data =
       }
    ]
 }
-var dataArray= data.results[0].members
+/* var dataArray= data.results[0].members
 var getinfo= function(array){
   var table= document.getElementById("senate-data");
   var body= document.getElementById("tbody");
@@ -4848,7 +4847,7 @@ var getinfo= function(array){
    
   
 getinfo(dataArray);    
-
+ */
 
 
 
